@@ -14,3 +14,7 @@ CD 넣고 설치 시작.
 OpenSSH 만 설치 (Optional)
 
 설치 완료~! 빠빰~!
+
+
+# 이후 작업
+도커 설치 [https://github.com/varteam/Install-Docker-On-Ubuntu]
